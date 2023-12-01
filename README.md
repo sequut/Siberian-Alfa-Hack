@@ -23,3 +23,4 @@
 - baseline-0.8748
 ```
 *з.ы. файлы automl хранятся в соответствующей папке, файлы baseline хранятся в папке catboost models*
+*з.ы. 2: automl запускается на python 3.8*
